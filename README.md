@@ -30,6 +30,7 @@ class AfterPayroll(object):
 **另外补充一点，用setter方法时，在定义类的时候一定要将object带上，不然会报错，具体为啥还不知道，望知道的小伙伴告知下~**
  
 <br>
+
 ## To to
 ----
 
