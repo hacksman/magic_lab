@@ -3,7 +3,6 @@
 <br>
 
 ### 关于python中的@porperty用法
-----
 
 **我的理解:** 它的一个核心作用是能将普通的函数像属性那样提取，比如代码中的样例
 
@@ -32,7 +31,6 @@ class AfterPayroll(object):
 <br>
 
 ## To to
-----
 
 - [X] decorator 中的类中 object 一定要加上的说明
 - [X] 改造 decorator/porperty_explore.py 代码，使调试更加方便
