@@ -3,7 +3,7 @@
 
 ### To to
 
-- [] decorator 中的类中 object 一定要加上的说明
-- [] 改造 decorator/porperty_explore.py 代码，使调试更加方便
-- [] 写 decorator/porperty_explore.py 说明
+- [ ] decorator 中的类中 object 一定要加上的说明
+- [ ] 改造 decorator/porperty_explore.py 代码，使调试更加方便
+- [ ] 写 decorator/porperty_explore.py 说明
 
